@@ -8,3 +8,15 @@ edit postcss.config.js
   
 
 Add any plugins you want to explore from here: https://www.postcss.parts/
+
+Post css instructions:
+
+https://github.com/postcss/postcss
+
+Postcss-cli instructions:
+
+https://github.com/postcss/postcss-cli
+
+To run postcss do:
+
+npx postcss [name of css file]
